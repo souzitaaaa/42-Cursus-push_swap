@@ -1,4 +1,4 @@
-# 42-Cursus-minitalk
+# 42-Cursus-push-swap
 These are my files during my time making the project "push-swap" in 42Porto
 
 Keep up the good work and good luck :)
