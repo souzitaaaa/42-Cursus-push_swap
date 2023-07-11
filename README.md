@@ -1,5 +1,5 @@
 # 42-Cursus-minitalk
-These are my files during my time making the project "minitalk" in 42Porto
+These are my files during my time making the project "push-swap" in 42Porto
 
 Keep up the good work and good luck :)
 
